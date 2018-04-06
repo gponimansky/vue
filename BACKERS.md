@@ -55,8 +55,8 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.datacamp.com/careers?utm_source=vuejs&utm_medium=sidebar" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/datacamp.png">
+        <a href="https://vehikl.com/" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vehikl.png">
         </a>
       </td>
     </tr><tr></tr>
@@ -91,11 +91,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="http://monterail.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/monterail.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
         <a href="https://anymod.com" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/anymod.png">
         </a>
@@ -105,13 +100,13 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/frontend-love.png">
         </a>
       </td>
-    </tr><tr></tr>
-    <tr>
       <td align="center" valign="middle">
         <a href="https://onsen.io/vue/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/onsen-ui.png">
         </a>
       </td>
+    </tr><tr></tr>
+    <tr>
       <td align="center" valign="middle">
         <a href="https://vuetifyjs.com" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vuetify.png">
@@ -137,11 +132,31 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vuejobs.png">
         </a>
       </td>
-    </tr><tr></tr>
-    <tr>
       <td align="center" valign="middle">
         <a href="https://leanpub.com/vuejs2" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/tmvuejs2.png">
+        </a>
+      </td>
+    </tr><tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.bmqb.com/jobs" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bmqb.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://codepilot.ai" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/codepilot.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://teamextension.io/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/teamextension.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://jsguru.io/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/jsguru.png">
         </a>
       </td>
     </tr><tr></tr>
@@ -239,7 +254,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Alex Balashov
 - Konstantin Levinski
 - Samuel Smith
-- HARRI J SALOMAA
 - tjkoury 
 - Evan Leonardi
 <!--50 end-->
@@ -254,7 +268,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Santa Cruz
 - Tom Conlon
 - Simon East
-- Henry Zhu
 - Benjamin Listwon
 - Lars Andreas Ness
 - Victor Tolbert
@@ -268,7 +281,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Paul Straw
 - Jake Ingman
 - Barbara Liau
-- Isaac Sant
 - Milos Stojanovic
 - 4 
 - The Graphic Design School
@@ -282,7 +294,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Dariusz Jastrzębski
 - Matt Jones
 - Dave Chenell
-- Cheng-Wei Chien
 - Duncan J Kenzie
 - Mike Margerum
 - Guy Gavergun
@@ -291,7 +302,9 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Luiz Eduardo  Tanure Bacelar
 - Chengzhi Yin
 - Zoran Knezevic
+- John Bergloff
 - James Simpson
+- Pascal Germain
 - Pierre Vanhulst
 - Vincent Gabriel
 - Chris Anderson
@@ -307,6 +320,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Nicholas Reid
 - Tyler Scott
 - Thong Yong Jun
+- Tai Shi Lgin
 - Bryan Gruneberg
 - Roman Kuba
 - Familiar Studio
@@ -318,17 +332,16 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Guilherme S L de Souza
 - Rob Yedlin
 - Daniel Waghorn
+- Eric Githinji
 - Chih-Hsuan, Fan
 - Jordan Oroshiba
 - Brian Jorden
 - Cliff Hess
 - Joe Ray Gregory
-- Johnny Eshan
 - Orney Enrique martinez Said
 - Tom Striker
 - Oskar Lindgren
 - RADD Creative
-- Maegan Wilson
 - Rua Cura D'ars
 - Richard Simpson
 - Charles McKeever
@@ -336,6 +349,16 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Jessie Hernandez
 - Eric Fong
 - Aparajita Fishman
+- Cheyenne Arrowsmith
+- Romain Lienard
+- Bohdan Kokotko
+- François Forest
+- Donald Fischer
+- Alexander Weiher
+- Daniel Cook
+- Shinya Katayama
+- Brendan Long
+- Jere Sjöroos
 <!--10 end-->
 
 <h2 align="center">Backers via OpenCollective</h2>
